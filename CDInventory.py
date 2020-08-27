@@ -15,7 +15,7 @@
 # AWaller, 2020-August-26, Add try-except error handling for deleting a CD.
 # Awaller, 2020-August-26, Change Github link. 
 
-# Link to Github: 
+# Link to Github: https://github.com/ariellewaller/Assignment07
 
 #------------------------------------------#
 
